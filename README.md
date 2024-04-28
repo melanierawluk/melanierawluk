@@ -1,5 +1,5 @@
-![HelloWorld](https://github.com/melanierawluk/melanierawluk/assets/55726320/bd3ef7e7-8fe4-4895-8707-98dc7b9003cd)
 
+![HelloWorld](https://github.com/melanierawluk/melanierawluk/assets/55726320/b3babc93-d09b-4ffa-b744-1230272c5da1)
 
 <!--
 **melanierawluk/melanierawluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
