@@ -3,19 +3,20 @@
 
 <p>My journey into software engineering is driven by a passion for learning and curiosity. Inspired by Shopify's development teams, I left my job as a Technical Support Engineer to enhance my skills at BrainStation.
 
-At Shopify, I investigated issues reported by merchants and collaborated with developers. This experience gave me a unique perspective on the relationship between software and user experience, which I am excited to bring to a development role.</p>
+At Shopify, I investigated issues reported by merchants and collaborated with developers. This experience gave me a unique perspective on the relationship between software and user experience, which I am excited to bring to a development role.
+
+I have a passion for creating clean & efficient applications, utilizing my keen attention to detail. 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melanierawluk" alt="melanierawluk" /></a> </p>
 
-- 🔭 I’m currently working on [Mindful Meds](https://github.com/melanierawluk/mindful-meds-capstone)
+- 🔭 BrainStation Capstone Project: [Mindful Meds](https://github.com/melanierawluk/mindful-meds-capstone)
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **melanie.rawluk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melanie-rawluk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanie-rawluk" height="30" width="40" /></a>
+- 🙋🏻‍♀️ Connect with me on <a href="https://linkedin.com/in/melanie-rawluk" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
