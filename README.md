@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melanie</h1>
-<h3 align="center">A passionate fullstack software engineer</h3>
+<h3 align="center">BrainStation Software Engineering Bootcamp Graduate [April 2024]</h3>
+
+<p>My journey into software engineering is driven by a passion for learning and curiosity. Inspired by Shopify's development teams, I left my job as a Technical Support Engineer to enhance my skills at BrainStation.
+
+At Shopify, I investigated issues reported by merchants and collaborated with developers. This experience gave me a unique perspective on the relationship between software and user experience, which I am excited to bring to a development role.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melanierawluk" alt="melanierawluk" /></a> </p>
 
