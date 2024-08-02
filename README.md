@@ -12,7 +12,7 @@ I have a passion for creating clean & efficient applications, utilizing my keen 
 
 - 🔭 BrainStation Capstone Project: [Mindful Meds](https://github.com/melanierawluk/mindful-meds-capstone)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & **Next.js**
 
 - 📫 How to reach me **melanie.rawluk@gmail.com**
 
